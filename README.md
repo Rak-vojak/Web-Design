@@ -12,4 +12,4 @@ https://docs.google.com/document/d/1d-uFowwg02xpnzhSWKBvrSMf1mvtXmTm5_6fAhgARWU/
 Інструменти розробки: мови HTML5, CSS3, Javascript.
 Тематика: Опитування. Реалізувати можливість створення опитування у вигляді запитання та варіантів відповідей на нього.
 Посилання на документ звіту на Google Drive:
-https://docs.google.com/document/d/1CZ47gBRJxLs1moq2Z6ht5fza_dlZjgcnqHTrwur8l9I/edit?usp=drive_link
+https://docs.google.com/document/d/1GMS5FojE98IFWoe9-DcbBrYjot53oj5YSk9kPyQ7Ww4/edit?usp=drive_link
